@@ -21,4 +21,4 @@ for f in The quick brown fox jumps over the lazy dog; do
 done
 echo ""
 
-echo "Right, I'm all done.  Bye bye."
+echo "Right, I'm all done. Bye bye."
